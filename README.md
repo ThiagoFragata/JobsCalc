@@ -47,4 +47,19 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+### Autor
+
+---
+
+<a href="https://github.com/ThiagoFragata">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/71910705?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Henrique Fragata</b></sub></a> <a href="https://app.rocketseat.com.br/me/thiago-fragata-6969" title="Thiago Henrique Fragata">🚀</a>
+
+Feito com 🧡+☕ por Thiago Henrique Fragata 👋🏽 Entre em contato!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thiago-henrique-fragata-2603b5207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagofragata" height="20" width="20" /></a>
+<a href="https://www.facebook.com/tfragata" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thiagofragata" height="20" width="20" /></a>
+<a href="https://www.instagram.com/_thiagofragata/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thiagofragata" height="20" width="20" /></a>
+</p>
